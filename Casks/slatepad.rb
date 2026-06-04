@@ -1,14 +1,14 @@
 cask "slatepad" do
-  version "0.1.1"
+  version "0.1.2"
 
   on_arm do
-    sha256 "0f518ab335597e7fc8c27a2d15fd69358073b65f8f2727a29496bb0340917362"
-    url "https://github.com/yasharma/Slatepad/releases/download/v0.1.1/Slatepad_0.1.1_aarch64.dmg"
+    sha256 "3cf7030752e609ab22752627816812ebea1775e3e5e460266513ff8b5fb1f7bf"
+    url "https://github.com/yasharma/Slatepad/releases/download/v0.1.2/Slatepad_0.1.2_aarch64.dmg"
   end
 
   on_intel do
-    sha256 "c41e46e4991fb7f2cd16926f6244efdba471633f300dc0420f44670e48518571"
-    url "https://github.com/yasharma/Slatepad/releases/download/v0.1.1/Slatepad_0.1.1_x64.dmg"
+    sha256 "90e38e34eaa76a6dc74e1ed6ea5568791d6c6c78ebdbefd4c57a467d977d2e36"
+    url "https://github.com/yasharma/Slatepad/releases/download/v0.1.2/Slatepad_0.1.2_x64.dmg"
   end
 
   name "Slatepad"
